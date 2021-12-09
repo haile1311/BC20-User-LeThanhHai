@@ -9,3 +9,21 @@ js
     - Stateful Component: class
     - Stateless Component: function
 * SPAs
+
+=====Buoi 2 =====
+- install bs4
+- renderring ele
+- handling events
+- state: render chay theo so lan thay doi cua state
+- 
+
+
+=== Buoi 3 ===
+- Communication
++ Props: truyền dữ liệu từ component cha => con
++ Lifting State up: truyền dữ liệu từ component con => Cha
+
+
+=== Buổi 4 ===
++ Shopping cart
++ User management

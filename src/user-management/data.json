@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "fullname": "Dinh Phuc Nguyen",
+        "username": "dpnguyen",
+        "email": "dpnguyen@gmail.com",
+        "phoneNumber": "123456789",
+        "type": "VIP"
+    },
+    {
+        "id": 2,
+        "fullname": "Nguyen Van A",
+        "username": "vana",
+        "email": "vana@gmail.com",
+        "phoneNumber": "123456789",
+        "type": "USER"
+    },
+    {
+        "id": 3,
+        "fullname": "Ngu Van A",
+        "username": "vana",
+        "email": "vava@gmail.com",
+        "phoneNumber": "1223456789",
+        "type": "USER"
+    },
+    {
+        "id": 4,
+        "fullname": "Nguyen thi C",
+        "username": "thic",
+        "email": "thic@gmail.com",
+        "phoneNumber": "123456089",
+        "type": "USER"
+    },
+    {
+        "id": 5,
+        "fullname": "Nguyen Van B",
+        "username": "vanb",
+        "email": "vana@gmail.com",
+        "phoneNumber": "123456822289",
+        "type": "VIP"
+    }
+]
